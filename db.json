@@ -90,72 +90,7 @@
             },
         ]
     },
-    {
-        "id": "6",
-        "name": "PVR ICON Infiniti",
-        "city": "mumbai",
-        "address": "VR, Dumas Rd, nr. VR Mall, New Magdalla, Surat, Gujarat 395007",
-        "badge": "XXI",
-        "dimension": [
-            {
-                "dimensionCategory": "2D",
-                "time": [ "12:10", "16:45", "19:45"],
-                "price": "270",
-            },
-        ]
-    },
-    {
-        "id": "7",
-        "name": "Cinepolis Nexux",
-        "city": "ahmedabad",
-        "address": "3rd floor, Infinity Mall, New Link Rd, Phase D, Shastri Nagar, Versova, Mumbai, Maharashtra 400036",
-        "badge": "CGV",
-        "dimension": [
-            {
-                "dimensionCategory": "Regular 2D",
-                "time": [ "11:00", "13:45", "14:40", "15:40", "17:15", "18:15", "20:00", "21:00"],
-                "price": "240 - 265",
-            },
-            {
-                "dimensionCategory": "Gold Class 2D",
-                "time": [ "12:40", "15:40", "18:35", "17:10"],
-                "price": "540",
-            },
-            {
-                "dimensionCategory": "Velvet 2D",
-                "time": [ "12:15", "13:45", "14:50"],
-                "price": "540",
-            },
-        ]
-    },
-    {
-        "id": "8",
-        "name": "Carnival Cinemas",
-        "city": "ahmedabad",
-        "address": "3rd floor, Himalaya Mall Commercial Building Big Bazar, Drive In Rd, Nilmani Society, Memnagar, Ahmedabad, Gujarat 380054",
-        "badge": "CINEPOLIS",
-        "dimension": [
-            {
-                "dimensionCategory": "2D",
-                "time": [ "13:45", "17:15", "20:00"],
-                "price": "160",
-            },
-        ]
-    },
-    {
-        "id": "9",
-        "name": "PVR Devarc Mall",
-        "city": "ahmedabad",
-        "address": "Devarc Mall, FP 181/1,3rd floor, Sarkhej - Gandhinagar Hwy, opposite Bigbazar, Ramdev Nagar, Ahmedabad, Gujarat 380015",
-        "badge": "XXI",
-        "dimension": [
-            {
-                "dimensionCategory": "2D",
-                "time": [ "12:10", "16:45", "19:45"],
-                "price": "270",
-            },
-        ]
-    },
+    
   ],
   
 }
